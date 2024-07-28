@@ -1,6 +1,6 @@
 pipeline {
  environment {
- imagename = “tushmormare3003/jenkins-docker”
+ imagename = “tushmormare007/jenkins-docker”
  registryCredential = ‘Tushar-docckerhub’
  dockerImage = ‘’
  }
